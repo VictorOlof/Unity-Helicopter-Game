@@ -58,3 +58,10 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+
+# MAC OS
+*.DS_Store
+
+# Editor
+.vscode/
+
